@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Logs produced by the host logger
+*.csv
